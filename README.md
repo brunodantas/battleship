@@ -1,1 +1,3 @@
 # battleship
+
+![](ex.gif)
